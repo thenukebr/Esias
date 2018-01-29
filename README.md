@@ -1,6 +1,6 @@
 # Esias
 Editor de scripts para inicialização automática de serviços
-# Licensa CC BY-ND
+# Licença CC BY-ND
 ## Atribuição-SemDerivações
 CC BY-ND
 
