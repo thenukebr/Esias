@@ -1,5 +1,7 @@
 # Esias
 Editor de scripts para inicialização automática de serviços
+
+## Dúvidas e sugestes enviar e-mail para thenuke@protonmail.com
 # Licença CC BY-ND
 ## Atribuição-SemDerivações
 CC BY-ND
