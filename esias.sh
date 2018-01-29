@@ -69,7 +69,8 @@ echo "	0 - Sair"
 	3) $esiaskill;;
 	4) $esiasdell;;
 	5) $esiaslist;;
-	0) exit 0;;
+	0) clear
+	   exit 0;;
 	*) echo -e "$red Opção Inválida!$transparent"
 	   sleep 1.5
 	   esias;;
