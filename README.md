@@ -1,7 +1,11 @@
 # Esias
 Editor de scripts para inicialização automática de serviços
 #
+### Para inicializar o programa use o esias.sh
+### Caso necessite execute um chmod +x *.sh 
+
 # Sumário
+
    ## 1.1 - Gerenciador de serviços (ESIAS)
    
 ###		1.1.1 - Criar scripts com o ESIAS 
