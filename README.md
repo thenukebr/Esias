@@ -22,6 +22,7 @@ se o serviço indicado no script estiver ativo ele finaliza o processo
 ###		1.1.4 - Deletar scripts
 Essa opção te da a função de excluir seus scripts
 #### Ex:
+
 ###############################
 
  Scripts de inicialização
@@ -31,6 +32,7 @@ ssh
 ssh
 
 ###############################
+
 para excluir um script deve ser usado o nome indicado ignorando o resto do nome do arquivo. Ex: nome-init.sh e nome-stop.sh
 usando como citado acima somente "ssh"
 #### Após escolher o nome do arquivo ex:ssh - o terminal vai te questionar sobre como prosseguir com a exclusão
