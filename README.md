@@ -6,8 +6,7 @@ CC BY-ND
 
 Esta licença permite a redistribuição, comercial e não comercial, desde que o trabalho seja distribuído inalterado e no seu todo, com crédito atribuído a você. 
 
-### Licensa em Português-Br
-
+### Licença em Português-Br
 https://creativecommons.org/licenses/by-nd/4.0/deed.pt
 
 ### License En
