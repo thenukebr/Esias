@@ -23,11 +23,13 @@ se o serviço indicado no script estiver ativo ele finaliza o processo
 Essa opção te da a função de excluir seus scripts
 #### Ex:
 ###############################
+
  Scripts de inicialização
 ssh
 
  Scripts de finalização
 ssh
+
 ###############################
 para excluir um script deve ser usado o nome indicado ignorando o resto do nome do arquivo. Ex: nome-init.sh e nome-stop.sh
 usando como citado acima somente "ssh"
